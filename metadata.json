@@ -1,0 +1,6 @@
+{
+  "name": "The Eyes of the Skin - 肌肤之目",
+  "description": "围绕《肌肤之目》打造的哲学与建筑感知动效交互体验。探讨身体、阴影、声音、触觉与空间经验。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
